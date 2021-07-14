@@ -2,3 +2,5 @@ spring:
   redis:
     host: 192.168.31.225
     port: 6379
+    
+name： 张三
