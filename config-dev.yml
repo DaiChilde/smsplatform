@@ -3,4 +3,4 @@ spring:
     host: 192.168.31.225
     port: 6379
     
-name： 张三
+dev: dev
